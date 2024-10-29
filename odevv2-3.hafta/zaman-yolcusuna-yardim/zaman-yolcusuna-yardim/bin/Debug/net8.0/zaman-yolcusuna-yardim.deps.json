@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zaman-yolcusuna-yardim/1.0.0": {
+        "runtime": {
+          "zaman-yolcusuna-yardim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zaman-yolcusuna-yardim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

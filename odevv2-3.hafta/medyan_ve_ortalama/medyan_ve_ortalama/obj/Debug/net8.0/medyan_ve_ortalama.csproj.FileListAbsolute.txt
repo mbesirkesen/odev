@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\bin\Debug\net8.0\medyan_ve_ortalama.exe
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\bin\Debug\net8.0\medyan_ve_ortalama.deps.json
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\bin\Debug\net8.0\medyan_ve_ortalama.runtimeconfig.json
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\bin\Debug\net8.0\medyan_ve_ortalama.dll
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\bin\Debug\net8.0\medyan_ve_ortalama.pdb
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.dll
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\refint\medyan_ve_ortalama.dll
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.pdb
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\medyan_ve_ortalama.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\medyan_ve_ortalama\medyan_ve_ortalama\obj\Debug\net8.0\ref\medyan_ve_ortalama.dll

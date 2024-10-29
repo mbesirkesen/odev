@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\bin\Debug\net8.0\labirenti_coz.exe
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\bin\Debug\net8.0\labirenti_coz.deps.json
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\bin\Debug\net8.0\labirenti_coz.runtimeconfig.json
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\bin\Debug\net8.0\labirenti_coz.dll
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\bin\Debug\net8.0\labirenti_coz.pdb
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.dll
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\refint\labirenti_coz.dll
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.pdb
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\labirenti_coz.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\labirenti_coz\labirenti_coz\obj\Debug\net8.0\ref\labirenti_coz.dll

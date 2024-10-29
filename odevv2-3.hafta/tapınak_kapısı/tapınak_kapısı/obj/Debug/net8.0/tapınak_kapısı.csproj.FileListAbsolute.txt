@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\bin\Debug\net8.0\tapınak_kapısı.exe
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\bin\Debug\net8.0\tapınak_kapısı.deps.json
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\bin\Debug\net8.0\tapınak_kapısı.runtimeconfig.json
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\bin\Debug\net8.0\tapınak_kapısı.dll
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\bin\Debug\net8.0\tapınak_kapısı.pdb
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.dll
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\refint\tapınak_kapısı.dll
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.pdb
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\tapınak_kapısı.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\tapınak_kapısı\tapınak_kapısı\obj\Debug\net8.0\ref\tapınak_kapısı.dll

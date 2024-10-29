@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\bin\Debug\net8.0\mesajınorijinalhalinibulma.exe
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\bin\Debug\net8.0\mesajınorijinalhalinibulma.deps.json
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\bin\Debug\net8.0\mesajınorijinalhalinibulma.runtimeconfig.json
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\bin\Debug\net8.0\mesajınorijinalhalinibulma.dll
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\bin\Debug\net8.0\mesajınorijinalhalinibulma.pdb
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.dll
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\refint\mesajınorijinalhalinibulma.dll
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.pdb
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\mesajınorijinalhalinibulma.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\mesajınorijinalhalinibulma\mesajınorijinalhalinibulma\obj\Debug\net8.0\ref\mesajınorijinalhalinibulma.dll

@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\bin\Debug\net8.0\islem_onceligine_göre_cozum.exe
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\bin\Debug\net8.0\islem_onceligine_göre_cozum.deps.json
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\bin\Debug\net8.0\islem_onceligine_göre_cozum.runtimeconfig.json
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\bin\Debug\net8.0\islem_onceligine_göre_cozum.dll
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\bin\Debug\net8.0\islem_onceligine_göre_cozum.pdb
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.dll
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\refint\islem_onceligine_göre_cozum.dll
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.pdb
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\islem_onceligine_göre_cozum.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\islem_onceligine_göre_cozum\islem_onceligine_göre_cozum\obj\Debug\net8.0\ref\islem_onceligine_göre_cozum.dll

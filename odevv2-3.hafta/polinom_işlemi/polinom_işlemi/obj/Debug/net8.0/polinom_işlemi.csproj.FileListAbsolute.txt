@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\bin\Debug\net8.0\polinom_işlemi.exe
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\bin\Debug\net8.0\polinom_işlemi.deps.json
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\bin\Debug\net8.0\polinom_işlemi.runtimeconfig.json
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\bin\Debug\net8.0\polinom_işlemi.dll
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\bin\Debug\net8.0\polinom_işlemi.pdb
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.dll
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\refint\polinom_işlemi.dll
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.pdb
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\polinom_işlemi.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\polinom_işlemi\polinom_işlemi\obj\Debug\net8.0\ref\polinom_işlemi.dll

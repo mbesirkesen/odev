@@ -1,0 +1,7 @@
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\obj\Debug\ikili arama.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\obj\Debug\ikili arama.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\bin\Debug\ikili arama.exe.config
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\bin\Debug\ikili arama.exe
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\bin\Debug\ikili arama.pdb
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\obj\Debug\ikili arama.exe
+C:\Users\Muhammed\source\repos\ikili arama\ikili arama\obj\Debug\ikili arama.pdb

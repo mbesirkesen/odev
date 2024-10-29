@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tapınak_kapısı/1.0.0": {
+        "runtime": {
+          "tapınak_kapısı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tapınak_kapısı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

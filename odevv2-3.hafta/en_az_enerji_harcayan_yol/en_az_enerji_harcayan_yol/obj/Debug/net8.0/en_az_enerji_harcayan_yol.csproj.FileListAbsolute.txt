@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\bin\Debug\net8.0\en_az_enerji_harcayan_yol.exe
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\bin\Debug\net8.0\en_az_enerji_harcayan_yol.deps.json
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\bin\Debug\net8.0\en_az_enerji_harcayan_yol.runtimeconfig.json
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\bin\Debug\net8.0\en_az_enerji_harcayan_yol.dll
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\bin\Debug\net8.0\en_az_enerji_harcayan_yol.pdb
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.dll
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\refint\en_az_enerji_harcayan_yol.dll
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.pdb
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\en_az_enerji_harcayan_yol.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\en_az_enerji_harcayan_yol\en_az_enerji_harcayan_yol\obj\Debug\net8.0\ref\en_az_enerji_harcayan_yol.dll

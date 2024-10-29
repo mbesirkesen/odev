@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "polinom_işlemi/1.0.0": {
+        "runtime": {
+          "polinom_işlemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polinom_işlemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

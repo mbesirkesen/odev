@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\bin\Debug\net8.0\zaman-yolcusuna-yardim.exe
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\bin\Debug\net8.0\zaman-yolcusuna-yardim.deps.json
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\bin\Debug\net8.0\zaman-yolcusuna-yardim.runtimeconfig.json
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\bin\Debug\net8.0\zaman-yolcusuna-yardim.dll
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\bin\Debug\net8.0\zaman-yolcusuna-yardim.pdb
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.dll
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\refint\zaman-yolcusuna-yardim.dll
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.pdb
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\zaman-yolcusuna-yardim.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\zaman-yolcusuna-yardim\zaman-yolcusuna-yardim\obj\Debug\net8.0\ref\zaman-yolcusuna-yardim.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed\\source\\repos\\gruplari bulma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2820908-18CA-4D34-A610-8EEA0EB2B539}|gruplari bulma\\gruplari bulma.csproj|c:\\users\\muhammed\\source\\repos\\gruplari bulma\\gruplari bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2820908-18CA-4D34-A610-8EEA0EB2B539}|gruplari bulma\\gruplari bulma.csproj|solutionrelative:gruplari bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\source\\repos\\gruplari bulma\\gruplari bulma\\Program.cs",
+              "RelativeDocumentMoniker": "gruplari bulma\\Program.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\source\\repos\\gruplari bulma\\gruplari bulma\\Program.cs",
+              "RelativeToolTip": "gruplari bulma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:04:41.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
